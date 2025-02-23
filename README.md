@@ -59,7 +59,7 @@ Além dessas configurações, os seguintes valores podem ser ajustados para defi
 
 ### 3.4 Como Executar o Ataque no Banana Pi M2 Zero
 1. Conecte a impressora 3D ao **Banana Pi M2 Zero** via USB.
-2. Ajuste os parâmetros do código conforme desejado.
+2. Ajuste os parâmetros do código conforme desejado, modifique os valores como de calbiração por exemplo, e ao zerar desabilitará o eixo desejado.
 3. Execute o código Python no **Banana Pi M2 Zero**.
 4. O dispositivo atuará como um host USB, enviando comandos modificados à impressora.
 5. Se `SAVE_EEPROM` estiver ativado, as alterações serão armazenadas permanentemente.
