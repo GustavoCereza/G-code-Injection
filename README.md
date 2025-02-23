@@ -73,6 +73,7 @@ Além dessas configurações, os seguintes valores podem ser ajustados para defi
 ## 4. Vídeo Demonstrativo
 Para ver o ataque G-Code Injection em ação e entender melhor seu impacto na impressora 3D, assista ao vídeo demonstrativo abaixo:
 
+
 ## 5. Possíveis Melhorias
 - **Implementação de detecção dinâmica da taxa de transmissão (Autobaud Rate)**;
 - **Sistema de Consulta M502**: Automatização de ataques com base nas respostas do comando M502;
