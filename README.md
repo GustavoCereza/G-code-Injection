@@ -71,8 +71,12 @@ Além dessas configurações, os seguintes valores podem ser ajustados para defi
 - **Persistência do ataque** se as configurações forem salvas na EEPROM, exigindo um reset manual.
 
 ## 4. Vídeo Demonstrativo
-Para ver o ataque G-Code Injection em ação e entender melhor seu impacto na impressora 3D, assista ao vídeo demonstrativo abaixo:
-
+Para ver o ataque G-Code Injection em ação e entender melhor seu impacto na impressora 3D, assista ao vídeo demonstrativo abaixo (só clicar na iamgem):
+<div align="center">
+  <a href="https://youtu.be/PJJUSSYCjXY">
+    <img src="https://img.youtube.com/vi/PJJUSSYCjXY/maxresdefault.jpg" alt="Assista no YouTube" width="80%">
+  </a>
+</div>
 
 ## 5. Possíveis Melhorias
 - **Implementação de detecção dinâmica da taxa de transmissão (Autobaud Rate)**;
